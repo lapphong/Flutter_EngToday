@@ -1,4 +1,3 @@
-# flutter_app_bt
 
 A new Flutter project.
 
